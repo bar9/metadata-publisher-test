@@ -1,0 +1,20 @@
+{
+  "dct:identifier": "4111c032-6222-4871-ae52-8bc2411cc443",
+  "dct:title": {
+    "de": "asdsdaf"
+  },
+  "dct:description": {
+    "de": "sadf"
+  },
+  "dct:accessRights": "CONFIDENTIAL",
+  "dct:publisher": "BLV-OSAV-USAV-FSVO",
+  "dcat:contactPoint": {
+    "schema:name": "adsf",
+    "schema:email": "roland@brand.ch"
+  },
+  "dcat:version": "1",
+  "adms:status": "workInProgress",
+  "bv:classification": "internal",
+  "bv:personalData": "personalData",
+  "bv:archivalValue": false
+}
