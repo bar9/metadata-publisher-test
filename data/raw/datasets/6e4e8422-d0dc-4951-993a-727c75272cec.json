@@ -1,0 +1,26 @@
+{
+  "dct:identifier": "6e4e8422-d0dc-4951-993a-727c75272cec",
+  "dct:title": {
+    "de": "kjhlhkdfgnfds",
+    "fr": "dsfgfdfgddsfgdsfsgbafds"
+  },
+  "dct:description": {
+    "de": "asdfgdfsbffdsdewfdgf",
+    "fr": "adsfbeasdfgfds"
+  },
+  "dct:publisher": "BLW-OFAG-UFAG-FOAG",
+  "dcat:contactPoint": {
+    "schema:name": "rdfsdfsadf",
+    "schema:email": "rasdf"
+  },
+  "dcat:keyword": [
+    "blau"
+  ],
+  "adms:status": "workInProgress",
+  "bv:classification": "internal",
+  "bv:personalData": "personalData",
+  "bv:archivalValue": false,
+  "dcat:theme": [
+    "crime"
+  ]
+}
