@@ -33,7 +33,6 @@
   "bv:personalData": "personalData",
   "bv:archivalValue": false,
   "dcat:theme": [
-    "territory",
     "agriculture"
   ],
   "dct:temporal": {
