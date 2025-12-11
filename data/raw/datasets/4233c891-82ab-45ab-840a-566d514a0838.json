@@ -1,0 +1,22 @@
+{
+  "dct:identifier": "4233c891-82ab-45ab-840a-566d514a0838",
+  "dct:title": {
+    "de": "adsfdsafasf",
+    "fr": "asfdsafsdf"
+  },
+  "dct:description": {
+    "de": "asdfdasf",
+    "fr": "adfdsaf"
+  },
+  "dct:accessRights": "NON_PUBLIC",
+  "dct:publisher": "BLV-OSAV-USAV-FSVO",
+  "dcat:contactPoint": {
+    "schema:name": "adsfadfs",
+    "schema:email": "adsfdfs"
+  },
+  "adms:status": "validated",
+  "bv:classification": "internal",
+  "bv:personalData": "none",
+  "bv:archivalValue": false,
+  "dcat:theme": "education"
+}
