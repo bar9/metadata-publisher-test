@@ -20,15 +20,33 @@
     "schema:email": "alessandro.rossi@blw.admin.ch"
   },
   "dct:issued": "2016-11-08",
-  "dcat:keyword": [
-    "biodiversity",
-    "climate",
-    "energy",
-    "environment",
-    "nitrogen",
-    "nutrients",
-    "phosphorus"
-  ],
+  "dcat:keyword": {
+    "environment": {
+      "de": "environment"
+    },
+    "climate": {
+      "de": "climate"
+    },
+    "nitrogen": {
+      "de": "nitrogen"
+    },
+    "phosphorus": {
+      "de": "phosphorus"
+    },
+    "nutrients": {
+      "de": "nutrients"
+    },
+    "energy": {
+      "de": "energy"
+    },
+    "biodiversity": {
+      "de": "biodiversity"
+    },
+    "a": {
+      "de": "asdfasdf",
+      "fr": "aasdfasdfsdf"
+    }
+  },
   "dct:accrualPeriodicity": "ANNUAL",
   "adms:status": "published",
   "bv:classification": "none",
