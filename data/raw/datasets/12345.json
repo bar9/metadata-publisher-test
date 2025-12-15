@@ -20,14 +20,33 @@
     "schema:email": "sortenadmin@blw.admin.ch"
   },
   "dct:issued": "2025-02-20",
-  "dcat:keyword": [
-    "botany",
-    "breeding",
-    "plant-variety",
-    "UPOV"
-  ],
+  "dcat:keyword": {
+    "botany": {
+      "de": "botany",
+      "fr": "botanique"
+    },
+    "breeding": {
+      "de": "breeding"
+    },
+    "plant_variety": {
+      "de": "plant-variety"
+    },
+    "upov": {
+      "de": "UPOV"
+    }
+  },
   "dct:accrualPeriodicity": "MONTHLY",
   "dct:modified": "2025-04-14",
+  "prov:qualifiedAttribution": [
+    {
+      "prov:agent": "asd",
+      "dcat:hadRole": "businessDataOwner"
+    },
+    {
+      "prov:agent": "adf",
+      "dcat:hadRole": "dataSteward"
+    }
+  ],
   "adms:status": "published",
   "bv:classification": "none",
   "bv:personalData": "personalData",
