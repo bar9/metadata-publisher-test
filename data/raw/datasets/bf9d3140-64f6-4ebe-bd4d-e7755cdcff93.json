@@ -1,0 +1,34 @@
+{
+  "dct:identifier": "bf9d3140-64f6-4ebe-bd4d-e7755cdcff93",
+  "dct:title": {
+    "de": "adfadfadfasdf",
+    "fr": "asdfadfasfasdf"
+  },
+  "dct:description": {
+    "de": "afafasdfadfs",
+    "fr": "asdfsd"
+  },
+  "dct:accessRights": "PUBLIC",
+  "dct:publisher": "BLW-OFAG-UFAG-FOAG",
+  "dcat:contactPoint": {
+    "schema:name": "asdfdsf",
+    "schema:email": "eraes@asdfdsf.sf"
+  },
+  "prov:qualifiedAttribution": [
+    {
+      "prov:agent": "wrwrer",
+      "dcat:hadRole": "dataSteward"
+    },
+    {
+      "prov:agent": "srgwerert",
+      "dcat:hadRole": "businessDataOwner"
+    }
+  ],
+  "adms:status": "workInProgress",
+  "bv:classification": "internal",
+  "bv:personalData": "none",
+  "bv:archivalValue": false,
+  "dcat:theme": [
+    "culture"
+  ]
+}
