@@ -20,21 +20,9 @@
     "schema:email": "sortenadmin@blw.admin.ch"
   },
   "dct:issued": "2025-02-20",
-  "dcat:keyword": {
-    "botany": {
-      "de": "botany",
-      "fr": "botanique"
-    },
-    "breeding": {
-      "de": "breeding"
-    },
-    "plant_variety": {
-      "de": "plant-variety"
-    },
-    "upov": {
-      "de": "UPOV"
-    }
-  },
+  "dcat:keyword": [
+    "cow"
+  ],
   "dct:accrualPeriodicity": "MONTHLY",
   "dct:modified": "2025-04-14",
   "prov:qualifiedAttribution": [
