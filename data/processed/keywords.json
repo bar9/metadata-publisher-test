@@ -1,4 +1,5 @@
 {
+    "dcat:keyword": {
         "animal": {
             "de": "Beispiel",
             "en": "Example"
@@ -7,4 +8,5 @@
             "de": "Kuh",
             "en": "Cow"
         }
+    }
 }
