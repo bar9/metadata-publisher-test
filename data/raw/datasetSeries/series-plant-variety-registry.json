@@ -1,0 +1,34 @@
+{
+  "dct:identifier": "series-plant-variety-registry",
+  "rdf:type": "datasetSeries",
+  "dct:title": {
+    "de": "Pflanzensortenregister Serie",
+    "fr": "Série du registre des variétés végétales",
+    "it": "Serie del registro delle varietà vegetali",
+    "en": "Plant variety registry series"
+  },
+  "dct:description": {
+    "de": "Datensatzserie zum Pflanzensortenregister (Testdaten).",
+    "fr": "Série de jeux de données du registre des variétés végétales (données de test).",
+    "it": "Serie di set di dati del registro delle varietà vegetali (dati di test).",
+    "en": "Dataset series for the plant variety registry (test data)."
+  },
+  "dct:publisher": "ROLAND-TEST",
+  "dcat:contactPoint": {
+    "schema:name": "ROLAND-TEST data desk",
+    "schema:email": "test@example.admin.ch"
+  },
+  "adms:status": "validated",
+  "bv:classification": "none",
+  "bv:personalData": "none",
+  "dct:creator": {
+    "prov:agent": "p-2959456",
+    "schema:name": "ROLAND-TEST curator",
+    "dcat:hadRole": "dataSteward"
+  },
+  "dcat:version": "1.1.0",
+  "dcat:dataset": [
+    "19111589-d41f-4f42-b397-b8318dfb13fd",
+    "82fcca67-633d-431d-853d-1bf765a70bc6"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "dct:identifier": "series-direct-payments",
+  "rdf:type": "datasetSeries",
+  "dct:title": {
+    "de": "Direktzahlungen Zeitreihe",
+    "fr": "Série chronologique des paiements directs",
+    "it": "Serie temporale dei pagamenti diretti",
+    "en": "Direct payments time series"
+  },
+  "dct:description": {
+    "de": "Jährliche Datensätze zu Direktzahlungen (Testdaten).",
+    "fr": "Jeux de données annuels sur les paiements directs (données de test).",
+    "it": "Set di dati annuali sui pagamenti diretti (dati di test).",
+    "en": "Annual datasets on direct payments (test data)."
+  },
+  "dct:publisher": "ROLAND-TEST",
+  "dcat:contactPoint": {
+    "schema:name": "ROLAND-TEST data desk",
+    "schema:email": "test@example.admin.ch"
+  },
+  "adms:status": "published",
+  "bv:classification": "none",
+  "bv:personalData": "none",
+  "dct:creator": {
+    "prov:agent": "p-2959456",
+    "schema:name": "ROLAND-TEST curator",
+    "dcat:hadRole": "dataSteward"
+  },
+  "dcat:version": "2.0.0",
+  "dcat:keyword": [
+    "direct-payments"
+  ],
+  "dcat:dataset": [
+    "bede7799-1552-43ea-be5b-7cd30a8f61cb"
+  ]
+}

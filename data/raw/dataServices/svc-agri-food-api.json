@@ -1,0 +1,31 @@
+{
+  "dct:identifier": "svc-agri-food-api",
+  "rdf:type": "dataService",
+  "dct:title": {
+    "de": "Agrar-Daten-API",
+    "fr": "API des données agricoles",
+    "it": "API dei dati agricoli",
+    "en": "Agri-food data API"
+  },
+  "dct:description": {
+    "de": "REST-API für Agrardatensätze (Testdaten).",
+    "fr": "API REST pour les jeux de données agricoles (données de test).",
+    "it": "API REST per i set di dati agricoli (dati di test).",
+    "en": "REST API serving agri-food datasets (test data)."
+  },
+  "dct:publisher": "ROLAND-TEST",
+  "dcat:contactPoint": {
+    "schema:name": "ROLAND-TEST data desk",
+    "schema:email": "test@example.admin.ch"
+  },
+  "dct:accessRights": "PUBLIC",
+  "dcat:endpointURL": "https://api.example.admin.ch/agri-food/v1",
+  "dcat:endpointDescription": "https://api.example.admin.ch/agri-food/v1/openapi.json",
+  "adms:status": "published",
+  "dcat:version": "1.0.0",
+  "dct:conformsTo": "https://www.ogc.org/standards/ogcapi-features",
+  "dcat:servesDataset": [
+    "bede7799-1552-43ea-be5b-7cd30a8f61cb",
+    "19111589-d41f-4f42-b397-b8318dfb13fd"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "dct:identifier": "svc-plant-variety-lookup",
+  "rdf:type": "dataService",
+  "dct:title": {
+    "de": "Pflanzensorten-Suchdienst",
+    "fr": "Service de recherche de variétés végétales",
+    "it": "Servizio di ricerca delle varietà vegetali",
+    "en": "Plant variety lookup service"
+  },
+  "dct:description": {
+    "de": "Suchdienst für Pflanzensorten (Testdaten).",
+    "fr": "Service de recherche de variétés végétales (données de test).",
+    "it": "Servizio di ricerca delle varietà vegetali (dati di test).",
+    "en": "Lookup service for plant varieties (test data)."
+  },
+  "dct:publisher": "ROLAND-TEST",
+  "dcat:contactPoint": {
+    "schema:name": "ROLAND-TEST data desk",
+    "schema:email": "test@example.admin.ch"
+  },
+  "dct:accessRights": "RESTRICTED",
+  "dcat:endpointURL": "https://api.example.admin.ch/plant-varieties/v1",
+  "adms:status": "workInProgress",
+  "dcat:version": "0.9.0",
+  "dcat:servesDataset": [
+    "19111589-d41f-4f42-b397-b8318dfb13fd"
+  ]
+}
